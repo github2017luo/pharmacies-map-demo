@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.70fad32704e3e5b049f0c40cbc7ed162.js"
+  "https://yuskawu.github.io/pharmacies-map-demo/precache-manifest.b0a5f8ada5d31c0816aa2c275f121740.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "open-street-map"});
